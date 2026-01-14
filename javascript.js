@@ -1,2 +1,1 @@
-asd
-asjavascript on top!
+javascript on top!
