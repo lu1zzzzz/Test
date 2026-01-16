@@ -1,5 +1,6 @@
-javascript on top!
-some commit
-some other
-3 commits
-yippie yayay
+// this is how you define variables in javascript
+var hello = "world";
+
+//this will print "world"
+console.log(hello);
+
